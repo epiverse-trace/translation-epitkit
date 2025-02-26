@@ -5,7 +5,7 @@ editor:
     wrap: 72
 ---
 
-> # ![logo Epi Training Kit](./img/LogoEpiTKit.jpg){width="150"} `Epi-Training Kit`
+> # ![](./img/LogoEpiTKit.jpg){width="150"} `Epi-Training Kit`
 >
 > ### Expanding the Epi Training Kit: A South-South Collaboration for Multilingual and Localized Public Health Data Science Training Materials in Africa
 
@@ -21,7 +21,7 @@ The **EpiTKit** consists of a series of modules and units for virtual training i
 
 This new phase, developed in **partnership between Pontificia Universidad Javeriana and data.org**, expands the reach of the **EpiTKit** to **Africa** through a **South-South collaboration**, emphasizing **multilingualism** and **localism** in the **translation** and **cultural adaptation** of training materials.  The initiative aims to strengthen local capacities in data science for public health while fostering knowledge exchange between regions facing similar gaps and epidemiological challenges.
 
-**GENERAL OBJECTIVE**
+## **GENERAL OBJECTIVE**
 
 To **translate** and **culturally adapt** the materials of the **Epi Training Kit (EpiTKit)** for the target audience in  Côte d\'Ivoire, The Gambia, Ghana, Kenya, Nigeria, Rwanda, Senegal, Sierra Leone, Tanzania, and Togo, ensuring **linguistic clarity**, **technical accuracy**, and **cultural relevance**. This initiative embraces a **multilingual** and **localism** approach to create **context-sensitive learning experiences** that reflect **local public health realities** and strengthen regional capacities in data science for epidemic response.
 
@@ -45,13 +45,13 @@ The five units to be translated and adapted are:
 
 5.  **Building a Deterministic Model**
 
-**INSTITUTIONS**
+##**INSTITUTIONS**
 
-![data.org(./img/data.org.jpg){width="200"}
+![](./img/data.org.png){width="200"}
 
-![javeriana](./img/javeriana.jpg){width="200"}
+![](./img/javeriana.png){width="200"}
 
-![MRC Unit The Gambia](./img/MRC.jpg){width="200"}
+![](./img/MRC.png){width="200"}
 
 ## **Contact information**
 
