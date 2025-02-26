@@ -3,20 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Epi-Training Kit"
+  title: "Expanding the Epi Training Kit"
   navbar:
     logo: logo_white.svg
-    left:
-      - href: index-EN.qmd
-        text: Epi-Training Kit (EN)
     tools:
       - icon: github
         menu:
           - text: Código fuente
-            url:  https://github.com/epiverse-trace/epi-training-kit
+            url:  https://epiverse-trace.github.io/translation-epitkit/
           - text: Reportar un error
-            url:  https://github.com/epiverse-trace/epi-training-kit/issues
-  repo-url: https://github.com/epiverse-trace/epi-training-kit/
+            url:  https://github.com/epiverse-trace/translation-epitkit/issues
+  repo-url: https://github.com/epiverse-trace/translation-epitkit/
   repo-actions: [edit, issue]
 
 format:
