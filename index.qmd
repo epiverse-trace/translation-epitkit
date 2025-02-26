@@ -47,11 +47,20 @@ The five units to be translated and adapted are:
 
 ## **INSTITUTIONS**
 
-```{.partners}
-<img src="data.org.png" alt="data.org" style="max-width: 150px; margin: 0 10px;">
-<img src="MRC.png" alt="MRC" style="max-width: 150px; margin: 0 10px;">
-<img src="javeriana.png" alt="Pontificia Universidad Javeriana" style="max-width: 150px; margin: 0 10px;">
-<style> .partners { display: flex; justify-content: space-around; align-items: center; margin: 20px 0; } </style>
+<div class="partners">
+  <img src="data.org.png" alt="data.org" style="max-width: 150px; margin: 0 10px;">
+  <img src="MRC.png" alt="MRC" style="max-width: 150px; margin: 0 10px;">
+  <img src="javeriana.png" alt="Pontificia Universidad Javeriana" style="max-width: 150px; margin: 0 10px;">
+</div>
+
+<style>
+.partners {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px 0;
+}
+</style>
 
 ## **Contact information**
 
