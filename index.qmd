@@ -48,9 +48,9 @@ The five units to be translated and adapted are:
 ## **INSTITUTIONS**
 
 <div class="partners">
-  <img src="data.org.png" alt="data.org" style="max-width: 150px; margin: 0 10px;">
-  <img src="MRC.png" alt="MRC" style="max-width: 150px; margin: 0 10px;">
-  <img src="javeriana.png" alt="Pontificia Universidad Javeriana" style="max-width: 150px; margin: 0 10px;">
+  <img src="img/data.org.png" alt="data.org" style="max-width: 150px; margin: 0 10px;">
+  <img src="img/MRC.png" alt="MRC" style="max-width: 150px; margin: 0 10px;">
+  <img src="img/javeriana.png" alt="Pontificia Universidad Javeriana" style="max-width: 150px; margin: 0 10px;">
 </div>
 
 <style>
