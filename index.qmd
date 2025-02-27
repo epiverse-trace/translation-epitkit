@@ -47,20 +47,53 @@ The five units to be translated and adapted are:
 
 ## **INSTITUTIONS**
 
-<div class="partners">
-  ![data.org](img/data.org.png){width=150}
-  ![MRC](img/MRC.png){width=150}
-  ![Pontificia Universidad Javeriana](img/javeriana.png){width=150}
-</div>
-
 <style>
-.partners {
+.partners-container {
   display: flex;
   justify-content: space-around;
   align-items: center;
   margin: 20px 0;
+  background-color: #0c1522;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.partner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.partner img {
+  max-width: 150px;
+  margin-bottom: 10px;
+}
+
+.partner p {
+  margin: 0;
 }
 </style>
+
+<div class="partners-container">
+  <div class="partner">
+    <img src="img/data.org.png" alt="data.org" style="max-width: 150px;">
+    <p>data.org</p>
+  </div>
+  <div class="partner">
+    <img src="img/MRC.png" alt="MRC Unit The Gambia" style="max-width: 150px;">
+    <p>MRC Unit<br>The Gambia</p>
+  </div>
+  <div class="partner">
+    <img src="img/uniandes.png" alt="Universidad de los Andes" style="max-width: 150px;">
+    <p>Universidad de<br>los Andes<br>Colombia</p>
+  </div>
+  <div class="partner">
+    <img src="img/javeriana.png" alt="Pontificia Universidad Javeriana" style="max-width: 150px;">
+    <p>JAVERIANA</p>
+  </div>
+</div>
 
 ## **Contact information**
 
