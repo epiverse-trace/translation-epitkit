@@ -53,7 +53,7 @@ The five units to be translated and adapted are:
   justify-content: space-around;
   align-items: center;
   margin: 20px 0;
-  background-color: #0c1522;
+  background-color: #999999;
   padding: 40px;
   border-radius: 10px;
 }
@@ -78,15 +78,15 @@ The five units to be translated and adapted are:
 
 <div class="partners-container">
   <div class="partner">
-  ![data.org](img/data.org.png){width=150}
+  ![](img/data.org.png){width=150}
 <p>data.org</p>
   </div>
   <div class="partner">
-  ![MRC](img/MRC.png){width=150}    
+  ![](img/MRC.png){width=150}    
 <p>MRC Unit<br>The Gambia</p>
   </div>
 <div class="partner">
-  ![Pontificia Universidad Javeriana](img/javeriana.png){width=150}
+  ![](img/javeriana.png){width=150}
 <p>Pontificia Universidad Javeriana</p>
   </div>
 </div>
