@@ -78,20 +78,16 @@ The five units to be translated and adapted are:
 
 <div class="partners-container">
   <div class="partner">
-    <img src="img/data.org.png" alt="data.org" style="max-width: 150px;">
-    <p>data.org</p>
+  ![data.org](img/data.org.png){width=150}
+<p>data.org</p>
   </div>
   <div class="partner">
-    <img src="img/MRC.png" alt="MRC Unit The Gambia" style="max-width: 150px;">
-    <p>MRC Unit<br>The Gambia</p>
+  ![MRC](img/MRC.png){width=150}    
+<p>MRC Unit<br>The Gambia</p>
   </div>
-  <div class="partner">
-    <img src="img/uniandes.png" alt="Universidad de los Andes" style="max-width: 150px;">
-    <p>Universidad de<br>los Andes<br>Colombia</p>
-  </div>
-  <div class="partner">
-    <img src="img/javeriana.png" alt="Pontificia Universidad Javeriana" style="max-width: 150px;">
-    <p>JAVERIANA</p>
+<div class="partner">
+  ![Pontificia Universidad Javeriana](img/javeriana.png){width=150}
+<p>Pontificia Universidad Javeriana</p>
   </div>
 </div>
 
