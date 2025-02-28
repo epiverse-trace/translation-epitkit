@@ -78,13 +78,13 @@ The five units to be translated and adapted are:
 
 <div class="partners-container">
   <div class="partner">
- ![](img/data.org.png){height =150px} 
+ ![](img/data.org.png){height ="200"} 
 </div>
   <div class="partner">
-  ![](img/MRC.png){width =150px}     
+  ![](img/MRC.png){width ="250"}     
   </div>
   <div class="partner">
-      ![](img/javeriana.png){height=150px}
+      ![](img/javeriana.png){height="250"}
   </div>
 </div>
 
