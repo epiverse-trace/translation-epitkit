@@ -67,7 +67,7 @@ The five units to be translated and adapted are:
 }
 
 .partner img {
-  max-height: 150px;
+  max-width : 250px;
   margin-bottom: 10px;
 }
 
