@@ -67,7 +67,6 @@ The five units to be translated and adapted are:
 }
 
 .partner img {
-  max-width : 250px;
   margin-bottom: 10px;
 }
 
@@ -84,9 +83,10 @@ The five units to be translated and adapted are:
   ![](img/MRC.png){width =250}    
   </div>
 <div class="partner">
-  ![](img/javeriana.png){width=150}
+  ![](img/javeriana.png){width=200}
   </div>
 </div>
+
 
 
 ## **Contact information**
