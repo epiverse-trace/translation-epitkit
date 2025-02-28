@@ -77,9 +77,9 @@ The five units to be translated and adapted are:
 </style>
 
 <div class="partners-container">
-  ![](img/data.org.png){height =200px} 
-  ![](img/MRC.png){width =250px}     
-  ![](img/javeriana.png){height =250px}
+  ![](img/data.org.png){height ="200"} 
+  ![](img/MRC.png){width ="250"}     
+  ![](img/javeriana.png){height ="250"}
 </div>
 
 
