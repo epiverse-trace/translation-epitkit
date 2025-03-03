@@ -68,7 +68,7 @@ The five units to be translated and adapted are:
 
 .partner img {
   margin-bottom: 10px;
-  object-fit: contain; 
+  object-fit: contain;
 }
 
 .partner p {
@@ -78,13 +78,13 @@ The five units to be translated and adapted are:
 
 <div class="partners-container">
   <div class="partner">
-    ![](img/data.org.png){height="100"} 
+    <img src="img/data.org.png" style="height: 150px;">
   </div>
   <div class="partner">
-    ![](img/MRC.png){width="250"}
+    <img src="img/MRC.png" style="width: 150px;">
   </div>
   <div class="partner">
-    ![](img/javeriana.png){height="200"}
+    <img src="img/javeriana.png" style="height: 150px;">
   </div>
 </div>
 
