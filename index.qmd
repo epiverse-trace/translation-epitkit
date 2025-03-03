@@ -77,11 +77,16 @@ The five units to be translated and adapted are:
 </style>
 
 <div class="partners-container">
-  ![](img/data.org.png){height="200"} 
-  ![](img/MRC.png){width="250"}     
-  ![](img/javeriana.png){height="250"}
+  <div class="partner">
+    ![](img/data.org.png){height="100"} 
+  </div>
+  <div class="partner">
+    ![](img/MRC.png){width="250"}
+  </div>
+  <div class="partner">
+    ![](img/javeriana.png){height="200"}
+  </div>
 </div>
-
 
 ## **Contact information**
 
