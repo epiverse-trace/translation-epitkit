@@ -77,14 +77,9 @@ The five units to be translated and adapted are:
 </style>
 
 <div class="partners-container">
-  <div class="partner">
-     ![data.org](img/data.org.png){width=150}
-  </div>
-  <div class="partner">
-    ![MRC Unit The Gambia](img/MRC.png){width=150}
-  </div>
-  <div class="partner">
-    ![Pontificia Universidad Javeriana](img/javeriana.png){width=150}
+     ![](img/data.org.png){width=150}
+    ![](img/MRC.png){width=150}
+    ![](img/javeriana.png){width=150}
 </div>
 
 ## **Contact information**
