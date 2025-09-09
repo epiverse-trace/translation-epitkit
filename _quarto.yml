@@ -6,6 +6,9 @@ website:
   title: "Expanding the Epi Training Kit"
   navbar:
     logo: logo_white.svg
+    left:
+      - href: index-FR.qmd
+        text: Extension du Kit de Formation Épidémiologique
     tools:
       - icon: github
         menu:
