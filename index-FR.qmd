@@ -1,0 +1,132 @@
+---
+title: "Extension du Kit de Formation Épidémiologique"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+> # ![](./img/LogoEpiTKit.jpg){width="150"} `Epi-Training Kit`
+>
+> ### Extension du Kit de Formation Épidémiologique : Une collaboration Sud-Sud pour des ressources de formation multilingues et contextualisées en science des données de santé publique en Afrique
+
+Dernière mise à jour : 26 février 2025
+
+## **CONTEXTE**
+
+Le projet **TRACE-LAC** (Amélioration des outils de réponse, d’analyse et de contrôle des épidémies en Amérique latine et dans les Caraïbes) est financé par le **Centre de recherches pour le développement international (CRDI)**. Il vise à créer une **boîte à outils de données ouverte, interopérable et de haute qualité** pour l’analyse des épidémies — tout en favorisant une communauté d’utilisateurs engagés — afin de soutenir les décideurs dans leur réponse aux épidémies en Amérique latine.
+
+La **Pontificia Universidad Javeriana (Javeriana)** a été soutenue par le **CRDI** pour développer diverses activités et produits de recherche dans le cadre du projet **TRACE-LAC**. Dans ce contexte, Javeriana a créé le **Kit de Formation Épidémiologique (EpiTKit)**, une stratégie de formation en ligne **en libre accès**.
+
+L’**EpiTKit** comprend une série de modules et d’unités de formation virtuelle en **science des données de santé publique** et en **modélisation des maladies infectieuses**, en lien avec l’initiative **Epiverse** dirigée par **data.org**. À ce jour, **10 unités** ont été développées en **espagnol**, adaptées aux publics d’**Amérique latine et des Caraïbes**.
+
+Cette nouvelle phase, développée en **partenariat entre la Pontificia Universidad Javeriana et data.org**, étend la portée de l’**EpiTKit** à l’**Afrique** grâce à une **collaboration Sud-Sud**, mettant l’accent sur le **multilinguisme** et la **localisation** dans la **traduction** et l’**adaptation culturelle** des ressources pédagogiques. L’initiative vise à renforcer les capacités locales en science des données pour la santé publique tout en favorisant l’échange de connaissances entre les régions confrontées à des défis épidémiologiques similaires.
+
+## **OBJECTIF GÉNÉRAL**
+
+**Traduire** et **adapter culturellement** les ressources du **Kit de Formation Épidémiologique (EpiTKit)** pour les publics cibles en **Côte d’Ivoire, Gambie, Ghana, Kenya, Nigeria, Rwanda, Sénégal, Sierra Leone, Tanzanie et Togo**, en garantissant la **clarté linguistique**, la **précision technique** et la **pertinence culturelle**. Cette initiative adopte une approche **multilingue** et **contextuelle** pour créer des expériences d’apprentissage sensibles au contexte local, reflétant les réalités de la santé publique et renforçant les capacités régionales en science des données pour la réponse aux épidémies.
+
+Cet objectif comprend :
+
+- La **traduction** et l’**adaptation** d’un ensemble initial de **cinq unités** développées par **Epiverse TRACE-LAC** en **anglais** et en **français**, en intégrant les **contextes locaux** et des exemples spécifiques à chaque région.
+
+- La **révision** de la terminologie technique pour assurer la cohérence, la précision et la **pertinence par rapport aux réalités épidémiologiques locales**.
+
+- L’**adaptation** et la **production de ressources multimédias multilingues** culturellement appropriées et reflétant la diversité des réalités africaines.
+
+Les cinq unités à traduire et adapter sont :
+
+1. **Introduction à la théorie des épidémies**
+
+2. **Épidémiologie générale**
+
+3. **Introduction aux statistiques et probabilités**
+
+4. **Paramètres**
+
+5. **Construction d’un modèle déterministe**
+
+## **INSTITUTIONS**
+
+<style>
+.partners-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px 0;
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.partner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.partner img {
+  margin-bottom: 10px;
+  object-fit: contain;
+}
+
+.partner p {
+  margin: 0;
+}
+</style>
+
+<div class="partners-container">
+  ![](img/data.org.png){width=150}
+  ![](img/MRC.png){width=150}
+  ![](img/javeriana.png){width=150}
+</div>
+
+## LE KIT DE FORMATION ÉPIDÉMIOLOGIQUE EN ACTION
+
+Pour faciliter l’accès aux unités adaptées de l’EpiTKit en anglais et en français, la plateforme **Atingi** est utilisée. La première étape consiste à créer un compte et à s’inscrire aux cours.
+
+### Étapes pour s’inscrire sur Atingi
+
+- Rendez-vous sur la [page d’accueil d’Atingi](https://online.atingi.org)  
+- Cliquez sur [« S’inscrire ici »](https://online.atingi.org/login/signup.php?lang=fr)  
+- Sélectionnez votre langue préférée  
+- Entrez votre adresse e-mail  
+- Lisez la politique de confidentialité et les conditions générales. Si vous acceptez, cochez la case et cliquez sur **Suivant**  
+- Créez un mot de passe  
+- Confirmez votre adresse e-mail via le lien envoyé dans votre boîte de réception (vérifiez le dossier spam si nécessaire)  
+- Remplissez vos informations personnelles : prénom, nom, année de naissance, pays de résidence, genre et niveau d’éducation  
+  > ⚠️ *Remarque : votre certificat sera généré à partir des informations que vous fournissez ici*  
+- Cliquez sur **Créer mon profil**  
+- Connectez-vous et utilisez les liens directs ci-dessous pour accéder à chaque cours  
+- Lisez la section **« À propos de ce cours »**. Si le contenu vous intéresse, cliquez sur le bouton **Inscrivez-moi**
+
+### Unités disponibles
+
+| Langue  | Titre de l’unité                                                           | Lien                                                                 |
+|---------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Anglais | Introduction to Infectious Disease Modelling for Public Health             | [S’inscrire ici](https://online.atingi.org/enrol/index.php?id=6015) |
+| Anglais | General Epidemiology Applied to Infectious Diseases                        | [S’inscrire ici](https://online.atingi.org/enrol/index.php?id=6121) |
+| Anglais | Introduction to Statistics and Probability                                 | À venir                                                              |
+| Anglais | Parameters                                                                  | À venir                                                              |
+| Anglais | Building a Deterministic Model                                              | À venir                                                              |
+| Français| Introduction à la modélisation des maladies infectieuses pour la santé publique | [S’inscrire ici](https://online.atingi.org/enrol/index.php?id=6067) |
+| Français| Épidémiologie générale appliquée aux maladies infectieuses                 | [S’inscrire ici](https://online.atingi.org/enrol/index.php?id=6135) |
+| Français| Introduction aux statistiques et probabilités                              | À venir                                                              |
+| Français| Paramètres                                                                  | À venir                                                              |
+| Français| Construction d’un modèle déterministe                                      | À venir                                                              |
+
+### Comment naviguer dans le cours
+
+- Commencez par la section **Introduction**. Si votre connexion est lente, attendez que le contenu se charge.
+- L’introduction est répétée dans chaque unité. Si vous l’avez déjà lue attentivement, ouvrez-la simplement pour qu’elle soit marquée comme terminée.
+- Passez au contenu de l’unité, complétez le test, répondez au sondage, puis cliquez sur **Certificat**.
+- Vous pouvez **télécharger votre certificat**, et il sera également envoyé à votre adresse e-mail.
+
+## **Informations de contact**
+
+- Zulma M. Cucunubá. Chercheuse principale  
+  (zulma.cucunuba@javeriana.edu.co)  
+- Laura Gómez-Bermeo. Coordinatrice de formation  
+  (gomezblaura@javeriana.edu.co)  
+- Projet TRACE-LAC tracelac@javeriana.edu.co
