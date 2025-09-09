@@ -9,7 +9,7 @@ editor:
 >
 > ### Expanding the Epi Training Kit: A South-South Collaboration for Multilingual and Localized Public Health Data Science Training Materials in Africa
 
-Last update: Feb 26, 2025
+Last update: Sep 09, 2025
 
 ## **BACKGROUND**
 
