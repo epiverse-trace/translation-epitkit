@@ -17,7 +17,7 @@ Enhancing Tools for Response, Analytics and Control of Epidemics in Latin Americ
 
 The **Pontificia Universidad Javeriana (Javeriana)** has been supported by **IDRC** to develop various activities and research products within the **TRACE-LAC** project. As part of this effort, Javeriana created the **Epi Training Kit (EpiTKit)**, an **open-access** online training strategy.
 
-The **EpiTKit** consists of a series of modules and units for virtual training in **public health data science** and **infectious disease modeling**, aligned with the **Epiverse initiative** led by **data.org**. To date, **10 units** have been developed in **Spanish**, tailored for audiences in **Latin America and the Caribbean**.
+The **EpiTKit** consists of a series of modules and units for virtual training in **public health data science** and **infectious disease modeling**, aligned with the **Epiverse initiative** powered by **data.org**. To date, **10 units** have been developed in **Spanish**, tailored for audiences in **Latin America and the Caribbean**.
 
 This new phase, developed in **partnership between Pontificia Universidad Javeriana and data.org**, expands the reach of the **EpiTKit** to **Africa** through a **South-South collaboration**, emphasizing **multilingualism** and **localism** in the **translation** and **cultural adaptation** of training materials.  The initiative aims to strengthen local capacities in data science for public health while fostering knowledge exchange between regions facing similar gaps and epidemiological challenges.
 
