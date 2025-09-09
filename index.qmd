@@ -82,6 +82,48 @@ The five units to be translated and adapted are:
   ![](img/javeriana.png){width=150}
 </div>
 
+
+## EPI-TRAINING KIT IN ACTION
+
+To facilitate access to the adapted EpiTKit units in English and French, the Atingi platform is used. The first step is to create an account and enroll in the courses.
+
+### Step-by-Step: How to Enroll on Atingi
+
+- Go to the [Atingi homepage](https://online.atingi.org)  
+- Click on [“Register here”](https://online.atingi.org/login/signup.php?lang=en)  
+- Select your preferred language  
+- Enter your email address  
+- Read the privacy policy and general terms and conditions. If you agree, check the box and click **Next**  
+- Set a password  
+- Confirm your email address via the link sent to your inbox (check your spam folder if you don’t see it)  
+- Fill in your personal data: first name, last name, year of birth, country of residence, gender, and highest level of education  
+  > ⚠️ *Note: Your certificate will be generated using the information you provide here*  
+- Click **Create my profile**  
+- Log in and use the direct links below to access each course  
+- Read the **“About this course”** section. If the content interests you, click the **Enrol me** button
+
+### Available Units
+
+| Language | Unit Title                                                                 | Link                                                                 |
+|----------|----------------------------------------------------------------------------|----------------------------------------------------------------------|
+| English  | Introduction to Infectious Disease Modelling for Public Health            | [Enroll here](https://online.atingi.org/enrol/index.php?id=6015)     |
+| English  | General Epidemiology Applied to Infectious Diseases                       | [Enroll here](https://online.atingi.org/enrol/index.php?id=6121)     |
+| English  | Introduction to Statistics and Probability                                | Coming soon                                                          |
+| English  | Parameters                                                                 | Coming soon                                                          |
+| English  | Building a Deterministic Model                                             | Coming soon                                                          |
+| French   | Introduction à la modélisation des maladies infectieuses pour la santé publique | [S’inscrire ici](https://online.atingi.org/enrol/index.php?id=6067)   |
+| French   | Épidémiologie générale appliquée aux maladies infectieuses                | [S’inscrire ici](https://online.atingi.org/enrol/index.php?id=6135)  |
+| French   | Introduction aux statistiques et probabilités                             | À venir                                                              |
+| French   | Paramètres                                                                 | À venir                                                              |
+| French   | Construction d’un modèle déterministe                                     | À venir                                                              |
+
+### How to Navigate the Course
+
+- Start with the **Introduction** section. If your internet is slow, allow time for the content to load.
+- The introduction is repeated in each unit. If you've already read it carefully, simply open it again so it’s marked as completed.
+- Proceed to the unit content, complete the test, fill out the survey, and click on **Certificate**.
+- You can **download your certificate**, and it will also be sent to your email.
+
 ## **Contact information**
 
 -   Zulma M. Cucunubá. Principal Investigator 
