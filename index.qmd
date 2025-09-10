@@ -7,7 +7,7 @@ editor:
 
 > # ![](./img/LogoEpiTKit.jpg){width="150"} `Epi-Training Kit`
 >
-> ### Expanding the Epi Training Kit: A South-South Collaboration for Multilingual and Localized Public Health Data Science Training Materials in Africa
+> ### Expanding the Epi-Training Kit: A South-South Collaboration for Multilingual and Localised Public Health Data Science Training Materials in Africa
 
 Last update: Sep 09, 2025
 
@@ -15,7 +15,7 @@ Last update: Sep 09, 2025
 
 Enhancing Tools for Response, Analytics and Control of Epidemics in Latin America and the Caribbean (**TRACE-LAC**) is a project funded by the **International Development Research Centre (IDRC)** with the objective of building a **high-quality, open-source, and interoperable data toolkit** for epidemic analytics --- and fostering an engaged user community --- to support decision-makers in responding to epidemics in Latin America.
 
-The **Pontificia Universidad Javeriana (Javeriana)** has been supported by **IDRC** to develop various activities and research products within the **TRACE-LAC** project. As part of this effort, Javeriana created the **Epi Training Kit (EpiTKit)**, an **open-access** online training strategy.
+The **Pontificia Universidad Javeriana (Javeriana)** has been supported by **IDRC** to develop various activities and research products within the **TRACE-LAC** project. As part of this effort, Javeriana created the **Epi-Training Kit (EpiTKit)**, an **open-access** online training strategy.
 
 The **EpiTKit** consists of a series of modules and units for virtual training in **public health data science** and **infectious disease modeling**, aligned with the **Epiverse initiative** powered by **data.org**. To date, **10 units** have been developed in **Spanish**, tailored for audiences in **Latin America and the Caribbean**.
 
@@ -23,7 +23,7 @@ This new phase, developed in **partnership between Pontificia Universidad Javeri
 
 ## **GENERAL OBJECTIVE**
 
-To **translate** and **culturally adapt** the materials of the **Epi Training Kit (EpiTKit)** for the target audience in  Côte d\'Ivoire, The Gambia, Ghana, Kenya, Nigeria, Rwanda, Senegal, Sierra Leone, Tanzania, and Togo, ensuring **linguistic clarity**, **technical accuracy**, and **cultural relevance**. This initiative embraces a **multilingual** and **localism** approach to create **context-sensitive learning experiences** that reflect **local public health realities** and strengthen regional capacities in data science for epidemic response.
+To **translate** and **culturally adapt** the materials of the **Epi-Training Kit (EpiTKit)** for the target audience in  Côte d\'Ivoire, The Gambia, Ghana, Kenya, Nigeria, Rwanda, Senegal, Sierra Leone, Tanzania, and Togo, ensuring **linguistic clarity**, **technical accuracy**, and **cultural relevance**. This initiative embraces a **multilingual** and **localism** approach to create **context-sensitive learning experiences** that reflect **local public health realities** and strengthen regional capacities in data science for epidemic response.
 
 This objective includes:
 
@@ -85,9 +85,9 @@ The five units to be translated and adapted are:
 
 ## EPI-TRAINING KIT IN ACTION
 
-To facilitate access to the adapted EpiTKit units in English and French, the Atingi platform is used. The first step is to create an account and enroll in the courses.
+To facilitate access to the adapted EpiTKit units in English and French, the Atingi platform is used. The first step is to create an account and enrol in the courses.
 
-### Step-by-Step: How to Enroll on Atingi
+### Step-by-Step: How to Enrol on Atingi
 
 - Go to the [Atingi homepage](https://online.atingi.org)  
 - Click on [“Register here”](https://online.atingi.org/login/signup.php?lang=en)  
@@ -106,8 +106,8 @@ To facilitate access to the adapted EpiTKit units in English and French, the Ati
 
 | Language | Unit Title                                                                 | Link                                                                 |
 |----------|----------------------------------------------------------------------------|----------------------------------------------------------------------|
-| English  | Introduction to Epidemic Theory            | [Enroll here](https://online.atingi.org/enrol/index.php?id=6015)     |
-| English  | General Epidemiology Applied to Infectious Diseases                       | [Enroll here](https://online.atingi.org/enrol/index.php?id=6121)     |
+| English  | Introduction to Epidemic Theory            | [Enrol here](https://online.atingi.org/enrol/index.php?id=6015)     |
+| English  | General Epidemiology Applied to Infectious Diseases                       | [Enrol here](https://online.atingi.org/enrol/index.php?id=6121)     |
 | English  | Introduction to Statistics and Probability                                | Coming soon                                                          |
 | English  | Parameters                                                                 | Coming soon                                                          |
 | English  | Building a Deterministic Model                                             | Coming soon                                                          |
