@@ -108,7 +108,7 @@ To facilitate access to the adapted EpiTKit units in English and French, the Ati
 |----------|----------------------------------------------------------------------------|----------------------------------------------------------------------|
 | English  | Introduction to Epidemic Theory            | [Enrol here](https://online.atingi.org/enrol/index.php?id=6015)     |
 | English  | General Epidemiology Applied to Infectious Diseases                       | [Enrol here](https://online.atingi.org/enrol/index.php?id=6121)     |
-| English  | Introduction to Statistics and Probability                                | Coming soon                                                          |
+| English  | Introduction to Statistics and Probability                                | [Enrol here](https://online.atingi.org/course/view.php?id=6159)                                                         |
 | English  | Parameters                                                                 | Coming soon                                                          |
 | English  | Building a Deterministic Model                                             | Coming soon                                                          |
 | French   | Introduction à la théorie des épidémies | [S’inscrire ici](https://online.atingi.org/enrol/index.php?id=6067)   |
